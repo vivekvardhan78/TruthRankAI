@@ -3,3 +3,6 @@ venv/
 "venv/" 
 "*.dll" 
 "data/candidates.jsonl" 
+"venv/" 
+"*.dll" 
+"data/candidates.jsonl" 
