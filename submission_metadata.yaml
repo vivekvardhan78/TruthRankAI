@@ -1,0 +1,30 @@
+team_name: TruthRank AI
+
+primary_contact:
+name: Vivek Vardhan Vandana
+email: vivekvardhanvandana@gmail.com
+phone: 7780150019
+
+github_repository: https://github.com/YOUR_USERNAME/TruthRankAI
+
+sandbox_link: https://YOUR_APP.streamlit.app
+
+ai_tools:
+
+* ChatGPT
+
+compute_environment:
+AMD Ryzen 5 5500U
+8GB RAM
+Python 3.11
+
+team_members:
+
+* name: Vivek Vardhan Vandana
+  email: vivekvardhanvandana@gmail.com
+
+methodology_summary: >
+TruthRank AI combines semantic candidate-job matching,
+career-fit scoring, behavior signals, trust scoring,
+availability analysis and explainable ranking to identify
+high-quality candidates beyond keyword matching.
